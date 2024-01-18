@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🌱 I’m a final-year Data Science and Computing student at **Birkbeck University**. I'm currently completing the module "Software and Programming III", focusing on OOP, Functional Programming, Web-based Programming, and Data Structures.
+- 🔭 My current side-project is on **kernel functions for Graph Neural Networks**. I'm looking into the effectiveness of different possible kernel functions, and using Rust to create efficient algorithms for them.
+- 📫 How to reach me: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: My [Bacon number](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon) is 2.
+
+
 <!--
 **ceedubarr/ceedubarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
